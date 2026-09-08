@@ -1,6 +1,6 @@
 import unittest
 import os
-from proj2 import Row, Node, read_csv_lines, listlen, filter_rows, parse_row
+from emissions import Row, Node, read_csv_lines, listlen, filter_rows, parse_row
 
 
 class TestProject2(unittest.TestCase):
